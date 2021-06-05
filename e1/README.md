@@ -1,9 +1,9 @@
+# Getting started with numpy, pandas, Matlabplot, and Jupyter
+
 Exercise 1
 ==========
 
 This exercise is designed to help you get used to the NumPy and Pandas APIs. To force you to do this, **you may not write any loops** in your code: no `for`, no `while`, no list comprehensions, no recursion. All iteration can be handled by calls to relevant functions in the libraries that will iterate for you.
-
-Some files are provided that you need below: [E1.zip](E1.zip).
 
 Python Libraries
 ----------------
