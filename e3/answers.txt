@@ -1,0 +1,8 @@
+Q1: While LOESS smoothing is able to adapt to dataset smoothly making the graph look a lot smoother compared to Kalman, 
+	its not able to recognise the outliers in the data and often results in LOESS ignoring them in order to achieve it's smooth curve.
+	Whereas Kalman smoothing is excellent at smoothing any dataset big or small easily given that we have enough information to make our predictions.
+    
+Q2: I believe observations such as speed and direction could have allowed us to develop a better kalman filter. 
+	By using these information we could created a better transition matrix to predict the next lat/long instead of assuming current and next lat/long and same.
+	Using the basic formula of velocity on the basis of speed and direction -> we could have tried to predict what the next lat/long co-ordinate in the given interval of time.
+ 

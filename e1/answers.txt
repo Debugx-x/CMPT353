@@ -1,0 +1,5 @@
+Q1: When I used with NumPy and Pandas to basically do the the same calculations again, I could identify the key difference between them. As the name suggests numpy feels more mathematical based compared to pandas and its quite beginner-friendly to pick up. Since, pandas is more data-driven, its easy for a beginner to get lost in it's vast nature.
+    
+Q2: The running time of pivot_months_pandas is 18.7 ms ± 663 µs per loop
+    The running time of pivot_months_loops is 443 ms ± 12.9 ms per loop
+As we can see using pandas is much much much more faster than using conventional methods like loops. The difference between them is almost 20x.

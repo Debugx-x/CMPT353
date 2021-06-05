@@ -1,0 +1,5 @@
+Q1: the calculation data['timestamp']*fit.slope + fit.intercept is used to produce the best fit line for the date vs rating of the tweet.
+	This gives us a prediction of a tweet's rating in float if we consider it's date
+    
+Q2: Since, timestamp values are created_at values converted to seconds we can use it to generate a fit line on graph using linear regression which only works numbers.
+	 hence using this and ratings we are able to plot the graph.
