@@ -1,0 +1,8 @@
+Q1: Daily temperatures is not exaclty a reliable way to predict population density, because all cities are different in one way or the other. 
+	Some have too many trees, too much polution, elevaltion, too many different factors affecting the daily temperature. 
+	But if we have set of cities a great number of similarities daily temperature could a good way predicting population density.
+    
+Q2: It better to be working with a large data file, it can be hard on your device's memory by taking up most of the space which can lead to slowing down ur pc/equipment or running out of space.
+	having a compressed file saves us from that trouble when we can extract the data whenever we need it, it also prevents from getting important data corrupted accidentlty. 
+	Hence, its better to work with compressed data which we can decompress on the go rather than uncompressed data.
+ 
