@@ -1,0 +1,9 @@
+Q1: Using the tests chi2 squares and mannwhite u we get o-values to be greater that 0.05, hence we dont have to reject our null hypothesis.
+	Therefore we are not p-hacking
+ 
+Q2: If we would have done t-tests for each pair of sorting algorithm, we would have to do (7*6)/2 = 21 tests. here, m = 21 and for 21 tests, 
+	the p value will be < 0.05/21 = 0.0023.
+  
+Q3: Sorting sorting implementations by speed we can rank from fastest to slowest as partition_sort, qs1, qs2, qs3, qs4, qs5, merge1. 
+	The pairs that our tests couldn't distinguish are qs2 and qs3 with identical average speed of 0.061 and, 
+	qs4 and qs4 with identical average speed of 0.064

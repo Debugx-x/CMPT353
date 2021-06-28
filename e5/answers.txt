@@ -1,0 +1,9 @@
+Q1: Using sqrt() is when we come closest to satisfying the assumptions of a T-test
+ 
+Q2: The p-value of t-test for orignal and transformed values is less than 0.05, hence we can reject the null hypothesis 
+	and the data is said to be not normal distribution.
+  
+Q3: According to me fix 2 Weekly data comes closest to answering the question but for all approaches null hypothesis 
+	gets rejected
+Q4: The mean amount of posts on weekdays is more than weekends. However, we must keep in mind that we are comparing 5 weekdays with 2 weekends 
+	and the sheer amount of data diffenrences and we can't say it with definitive proof that there are more comments on weekdays
