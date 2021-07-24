@@ -1,0 +1,5 @@
+Q1: if we look at our p-value for regression, it's 1.5139606492959894e-106 which can be said to be increasing enough to be separated from 0. 
+	hence, we can say that our ratings are increasing and residuals look close-enough to be normal.
+ 
+Q2: Yes, our new Kalman filter seems to be doing a better job at capturing true signal than it's predecessor 
+  

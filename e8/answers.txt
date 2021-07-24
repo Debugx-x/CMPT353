@@ -1,0 +1,7 @@
+Q1: KNN model is able to do the best job. One of reasons why KNN model is able to do a more accurate job, 
+	is because we can specific the number of training point the model must compare making a decision. 
+	I chose to use 10 nearest neighbour as it makes the sample large enough 
+ 
+Q2: Yes, the model seems to make resonable mistakes, since some cities might have similar whether conditions hence confusing the model. 
+	Adding geographical data such as latitude, longitude, elevation might aid our model in making better decisions.
+  
